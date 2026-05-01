@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-05-01T19:05:12.659Z",
+    "ip": "::1",
+    "username": "admin",
+    "success": true,
+    "reason": "Successful login"
+  }
+]
